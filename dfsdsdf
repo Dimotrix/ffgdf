@@ -2,9 +2,9 @@ local Players = game:GetService("Players")
 local Player = Players.LocalPlayer
 local UserName = Player.Name
 
-if UserName == "Kranm9866" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
-    getgenv().SelectedPlayer = "Kranm9866" -- Main Account/ Account To Send Gem
+if UserName == "Ruxt7705" then
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
+    getgenv().SelectedPlayer = "Ruxt7705" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = true --Set True if it's the account to receive game, false if the account send gem
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
@@ -20,9 +20,9 @@ if UserName == "Kranm9866" then
         KickAfterDoneTrade=true,
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "Blasttwinge4019" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
-    getgenv().SelectedPlayer = "Blasttwinge4019" -- Main Account/ Account To Send Gem
+elseif UserName == "Slizvix0229" then
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
+    getgenv().SelectedPlayer = "Slizvix0229" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = true --Set True if it's the account to receive game, false if the account send gem
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
@@ -38,9 +38,9 @@ elseif UserName == "Blasttwinge4019" then
         KickAfterDoneTrade=true,
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "Silentfixxit5682" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
-    getgenv().SelectedPlayer = "Silentfixxit5682" -- Main Account/ Account To Send Gem
+elseif UserName == "Risrf5188" then
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
+    getgenv().SelectedPlayer = "Risrf5188" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = true --Set True if it's the account to receive game, false if the account send gem
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
@@ -56,9 +56,9 @@ elseif UserName == "Silentfixxit5682" then
         KickAfterDoneTrade=true,
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "Brassswitch2644" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
-    getgenv().SelectedPlayer = "Brassswitch2644" -- Main Account/ Account To Send Gem
+elseif UserName == "Zenrt2645" then
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
+    getgenv().SelectedPlayer = "Zenrt2645" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = true --Set True if it's the account to receive game, false if the account send gem
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
@@ -74,297 +74,9 @@ elseif UserName == "Brassswitch2644" then
         KickAfterDoneTrade=true,
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "Wellank2852" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
-    getgenv().SelectedPlayer = "Kranm9866" -- Main Account/ Account To Send Gem
-    getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
-    getgenv().AccountForMainToFolow = ""
-    getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
-    getgenv().MainAccountSetting = { -- Unit To Sell
-        Units = {"Electric Cyborg","Magic Arrow"},
-        ManuallyClaimBooth = false,
-    }
-    getgenv().AltAccountSetting = {
-        Trade = true,
-        NotSendGem = false,
-        TradeItems = {"Trait Crystal","Risky Dice"},
-        GiveBackUnit=true,
-        KickAfterDoneTrade=true,
-    }
-loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "Xanfe1391" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
-    getgenv().SelectedPlayer = "Kranm9866" -- Main Account/ Account To Send Gem
-    getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
-    getgenv().AccountForMainToFolow = ""
-    getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
-    getgenv().MainAccountSetting = { -- Unit To Sell
-        Units = {"Electric Cyborg","Magic Arrow"},
-        ManuallyClaimBooth = false,
-    }
-    getgenv().AltAccountSetting = {
-        Trade = true,
-        NotSendGem = false,
-        TradeItems = {"Trait Crystal","Risky Dice"},
-        GiveBackUnit=true,
-        KickAfterDoneTrade=true,
-    }
-loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "Bonhk0848" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
-    getgenv().SelectedPlayer = "Kranm9866" -- Main Account/ Account To Send Gem
-    getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
-    getgenv().AccountForMainToFolow = ""
-    getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
-    getgenv().MainAccountSetting = { -- Unit To Sell
-        Units = {"Electric Cyborg","Magic Arrow"},
-        ManuallyClaimBooth = false,
-    }
-    getgenv().AltAccountSetting = {
-        Trade = true,
-        NotSendGem = false,
-        TradeItems = {"Trait Crystal","Risky Dice"},
-        GiveBackUnit=true,
-        KickAfterDoneTrade=true,
-    }
-loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "Crutks7127" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
-    getgenv().SelectedPlayer = "Kranm9866" -- Main Account/ Account To Send Gem
-    getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
-    getgenv().AccountForMainToFolow = ""
-    getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
-    getgenv().MainAccountSetting = { -- Unit To Sell
-        Units = {"Electric Cyborg","Magic Arrow"},
-        ManuallyClaimBooth = false,
-    }
-    getgenv().AltAccountSetting = {
-        Trade = true,
-        NotSendGem = false,
-        TradeItems = {"Trait Crystal","Risky Dice"},
-        GiveBackUnit=true,
-        KickAfterDoneTrade=true,
-    }
-loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "Wobblewhistle8113" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
-    getgenv().SelectedPlayer = "Blasttwinge4019" -- Main Account/ Account To Send Gem
-    getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
-    getgenv().AccountForMainToFolow = ""
-    getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
-    getgenv().MainAccountSetting = { -- Unit To Sell
-        Units = {"Electric Cyborg","Magic Arrow"},
-        ManuallyClaimBooth = false,
-    }
-    getgenv().AltAccountSetting = {
-        Trade = true,
-        NotSendGem = false,
-        TradeItems = {"Trait Crystal","Risky Dice"},
-        GiveBackUnit=true,
-        KickAfterDoneTrade=true,
-    }
-loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "Featherbread9380" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
-    getgenv().SelectedPlayer = "Blasttwinge4019" -- Main Account/ Account To Send Gem
-    getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
-    getgenv().AccountForMainToFolow = ""
-    getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
-    getgenv().MainAccountSetting = { -- Unit To Sell
-        Units = {"Electric Cyborg","Magic Arrow"},
-        ManuallyClaimBooth = false,
-    }
-    getgenv().AltAccountSetting = {
-        Trade = true,
-        NotSendGem = false,
-        TradeItems = {"Trait Crystal","Risky Dice"},
-        GiveBackUnit=true,
-        KickAfterDoneTrade=true,
-    }
-loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "Bramm2262" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
-    getgenv().SelectedPlayer = "Blasttwinge4019" -- Main Account/ Account To Send Gem
-    getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
-    getgenv().AccountForMainToFolow = ""
-    getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
-    getgenv().MainAccountSetting = { -- Unit To Sell
-        Units = {"Electric Cyborg","Magic Arrow"},
-        ManuallyClaimBooth = false,
-    }
-    getgenv().AltAccountSetting = {
-        Trade = true,
-        NotSendGem = false,
-        TradeItems = {"Trait Crystal","Risky Dice"},
-        GiveBackUnit=true,
-        KickAfterDoneTrade=true,
-    }
-loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "Zolee4765" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
-    getgenv().SelectedPlayer = "Blasttwinge4019" -- Main Account/ Account To Send Gem
-    getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
-    getgenv().AccountForMainToFolow = ""
-    getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
-    getgenv().MainAccountSetting = { -- Unit To Sell
-        Units = {"Electric Cyborg","Magic Arrow"},
-        ManuallyClaimBooth = false,
-    }
-    getgenv().AltAccountSetting = {
-        Trade = true,
-        NotSendGem = false,
-        TradeItems = {"Trait Crystal","Risky Dice"},
-        GiveBackUnit=true,
-        KickAfterDoneTrade=true,
-    }
-loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "Kipchoo8820" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
-    getgenv().SelectedPlayer = "Silentfixxit5682" -- Main Account/ Account To Send Gem
-    getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
-    getgenv().AccountForMainToFolow = ""
-    getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
-    getgenv().MainAccountSetting = { -- Unit To Sell
-        Units = {"Electric Cyborg","Magic Arrow"},
-        ManuallyClaimBooth = false,
-    }
-    getgenv().AltAccountSetting = {
-        Trade = true,
-        NotSendGem = false,
-        TradeItems = {"Trait Crystal","Risky Dice"},
-        GiveBackUnit=true,
-        KickAfterDoneTrade=true,
-    }
-loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "Sotzbik2425" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
-    getgenv().SelectedPlayer = "Silentfixxit5682" -- Main Account/ Account To Send Gem
-    getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
-    getgenv().AccountForMainToFolow = ""
-    getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
-    getgenv().MainAccountSetting = { -- Unit To Sell
-        Units = {"Electric Cyborg","Magic Arrow"},
-        ManuallyClaimBooth = false,
-    }
-    getgenv().AltAccountSetting = {
-        Trade = true,
-        NotSendGem = false,
-        TradeItems = {"Trait Crystal","Risky Dice"},
-        GiveBackUnit=true,
-        KickAfterDoneTrade=true,
-    }
-loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "Overbolt3162" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
-    getgenv().SelectedPlayer = "Silentfixxit5682" -- Main Account/ Account To Send Gem
-    getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
-    getgenv().AccountForMainToFolow = ""
-    getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
-    getgenv().MainAccountSetting = { -- Unit To Sell
-        Units = {"Electric Cyborg","Magic Arrow"},
-        ManuallyClaimBooth = false,
-    }
-    getgenv().AltAccountSetting = {
-        Trade = true,
-        NotSendGem = false,
-        TradeItems = {"Trait Crystal","Risky Dice"},
-        GiveBackUnit=true,
-        KickAfterDoneTrade=true,
-    }
-loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "Togglekettle6226" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
-    getgenv().SelectedPlayer = "Silentfixxit5682" -- Main Account/ Account To Send Gem
-    getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
-    getgenv().AccountForMainToFolow = ""
-    getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
-    getgenv().MainAccountSetting = { -- Unit To Sell
-        Units = {"Electric Cyborg","Magic Arrow"},
-        ManuallyClaimBooth = false,
-    }
-    getgenv().AltAccountSetting = {
-        Trade = true,
-        NotSendGem = false,
-        TradeItems = {"Trait Crystal","Risky Dice"},
-        GiveBackUnit=true,
-        KickAfterDoneTrade=true,
-    }
-loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "Gearrun2541" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
-    getgenv().SelectedPlayer = "Brassswitch2644" -- Main Account/ Account To Send Gem
-    getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
-    getgenv().AccountForMainToFolow = ""
-    getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
-    getgenv().MainAccountSetting = { -- Unit To Sell
-        Units = {"Electric Cyborg","Magic Arrow"},
-        ManuallyClaimBooth = false,
-    }
-    getgenv().AltAccountSetting = {
-        Trade = true,
-        NotSendGem = false,
-        TradeItems = {"Trait Crystal","Risky Dice"},
-        GiveBackUnit=true,
-        KickAfterDoneTrade=true,
-    }
-loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "Crutks2828" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
-    getgenv().SelectedPlayer = "Brassswitch2644" -- Main Account/ Account To Send Gem
-    getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
-    getgenv().AccountForMainToFolow = ""
-    getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
-    getgenv().MainAccountSetting = { -- Unit To Sell
-        Units = {"Electric Cyborg","Magic Arrow"},
-        ManuallyClaimBooth = false,
-    }
-    getgenv().AltAccountSetting = {
-        Trade = true,
-        NotSendGem = false,
-        TradeItems = {"Trait Crystal","Risky Dice"},
-        GiveBackUnit=true,
-        KickAfterDoneTrade=true,
-    }
-loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "Spindlebolt9540" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
-    getgenv().SelectedPlayer = "Brassswitch2644" -- Main Account/ Account To Send Gem
-    getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
-    getgenv().AccountForMainToFolow = ""
-    getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
-    getgenv().MainAccountSetting = { -- Unit To Sell
-        Units = {"Electric Cyborg","Magic Arrow"},
-        ManuallyClaimBooth = false,
-    }
-    getgenv().AltAccountSetting = {
-        Trade = true,
-        NotSendGem = false,
-        TradeItems = {"Trait Crystal","Risky Dice"},
-        GiveBackUnit=true,
-        KickAfterDoneTrade=true,
-    }
-loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "Wiknk0235" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
-    getgenv().SelectedPlayer = "Brassswitch2644" -- Main Account/ Account To Send Gem
-    getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
-    getgenv().AccountForMainToFolow = ""
-    getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
-    getgenv().MainAccountSetting = { -- Unit To Sell
-        Units = {"Electric Cyborg","Magic Arrow"},
-        ManuallyClaimBooth = false,
-    }
-    getgenv().AltAccountSetting = {
-        Trade = true,
-        NotSendGem = false,
-        TradeItems = {"Trait Crystal","Risky Dice"},
-        GiveBackUnit=true,
-        KickAfterDoneTrade=true,
-    }
-loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "Blasttwinge4019" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
-    getgenv().SelectedPlayer = "Blasttwinge4019" -- Main Account/ Account To Send Gem
+elseif UserName == "Boltkettle2483" then
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
+    getgenv().SelectedPlayer = "Boltkettle2483" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = true --Set True if it's the account to receive game, false if the account send gem
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
@@ -380,9 +92,9 @@ elseif UserName == "Blasttwinge4019" then
         KickAfterDoneTrade=true,
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "Silentfixxit5682" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
-    getgenv().SelectedPlayer = "Silentfixxit5682" -- Main Account/ Account To Send Gem
+elseif UserName == "Shimmercog9597" then
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
+    getgenv().SelectedPlayer = "Shimmercog9597" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = true --Set True if it's the account to receive game, false if the account send gem
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
@@ -398,9 +110,9 @@ elseif UserName == "Silentfixxit5682" then
         KickAfterDoneTrade=true,
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "Brassswitch2644" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
-    getgenv().SelectedPlayer = "Brassswitch2644" -- Main Account/ Account To Send Gem
+elseif UserName == "Hekm1112" then
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
+    getgenv().SelectedPlayer = "Hekm1112" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = true --Set True if it's the account to receive game, false if the account send gem
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
@@ -416,9 +128,27 @@ elseif UserName == "Brassswitch2644" then
         KickAfterDoneTrade=true,
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "Wellank2852" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
-    getgenv().SelectedPlayer = "Kranm9866" -- Main Account/ Account To Send Gem
+elseif UserName == "Fizzberry0514" then
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
+    getgenv().SelectedPlayer = "Fizzberry0514" -- Main Account/ Account To Send Gem
+    getgenv().MainAccount = true --Set True if it's the account to receive game, false if the account send gem
+    getgenv().AccountForMainToFolow = ""
+    getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
+    getgenv().MainAccountSetting = { -- Unit To Sell
+        Units = {"Electric Cyborg","Magic Arrow"},
+        ManuallyClaimBooth = false,
+    }
+    getgenv().AltAccountSetting = {
+        Trade = true,
+        NotSendGem = false,
+        TradeItems = {"Trait Crystal","Risky Dice"},
+        GiveBackUnit=true,
+        KickAfterDoneTrade=true,
+    }
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
+elseif UserName == "Gearswitch7293" then
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
+    getgenv().SelectedPlayer = "Ruxt7705" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
@@ -434,9 +164,9 @@ elseif UserName == "Wellank2852" then
         KickAfterDoneTrade=true,
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "Xanfe1391" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
-    getgenv().SelectedPlayer = "Kranm9866" -- Main Account/ Account To Send Gem
+elseif UserName == "Twizzlemaker4188" then
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
+    getgenv().SelectedPlayer = "Ruxt7705" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
@@ -452,9 +182,9 @@ elseif UserName == "Xanfe1391" then
         KickAfterDoneTrade=true,
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "Bonhk0848" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
-    getgenv().SelectedPlayer = "Kranm9866" -- Main Account/ Account To Send Gem
+elseif UserName == "Thistleblast8124" then
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
+    getgenv().SelectedPlayer = "Ruxt7705" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
@@ -470,9 +200,9 @@ elseif UserName == "Bonhk0848" then
         KickAfterDoneTrade=true,
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "Crutks7127" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
-    getgenv().SelectedPlayer = "Kranm9866" -- Main Account/ Account To Send Gem
+elseif UserName == "Tarkbik7193" then
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
+    getgenv().SelectedPlayer = "Ruxt7705" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
@@ -488,9 +218,9 @@ elseif UserName == "Crutks7127" then
         KickAfterDoneTrade=true,
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "Wobblewhistle8113" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
-    getgenv().SelectedPlayer = "Blasttwinge4019" -- Main Account/ Account To Send Gem
+elseif UserName == "Wobblecrank8766" then
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
+    getgenv().SelectedPlayer = "Slizvix0229" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
@@ -506,9 +236,9 @@ elseif UserName == "Wobblewhistle8113" then
         KickAfterDoneTrade=true,
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "Featherbread9380" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
-    getgenv().SelectedPlayer = "Blasttwinge4019" -- Main Account/ Account To Send Gem
+elseif UserName == "Frosttwinge6718" then
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
+    getgenv().SelectedPlayer = "Slizvix0229" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
@@ -524,9 +254,9 @@ elseif UserName == "Featherbread9380" then
         KickAfterDoneTrade=true,
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "Bramm2262" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
-    getgenv().SelectedPlayer = "Blasttwinge4019" -- Main Account/ Account To Send Gem
+elseif UserName == "Whindlecrank7581" then
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
+    getgenv().SelectedPlayer = "Slizvix0229" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
@@ -542,9 +272,9 @@ elseif UserName == "Bramm2262" then
         KickAfterDoneTrade=true,
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "Zolee4765" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
-    getgenv().SelectedPlayer = "Blasttwinge4019" -- Main Account/ Account To Send Gem
+elseif UserName == "Quickfixxit1411" then
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
+    getgenv().SelectedPlayer = "Slizvix0229" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
@@ -560,9 +290,9 @@ elseif UserName == "Zolee4765" then
         KickAfterDoneTrade=true,
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "Kipchoo8820" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
-    getgenv().SelectedPlayer = "Silentfixxit5682" -- Main Account/ Account To Send Gem
+elseif UserName == "Romfe2530" then
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
+    getgenv().SelectedPlayer = "Risrf5188" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
@@ -578,9 +308,9 @@ elseif UserName == "Kipchoo8820" then
         KickAfterDoneTrade=true,
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "Sotzbik2425" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
-    getgenv().SelectedPlayer = "Silentfixxit5682" -- Main Account/ Account To Send Gem
+elseif UserName == "Leejj0565" then
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
+    getgenv().SelectedPlayer = "Risrf5188" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
@@ -596,9 +326,9 @@ elseif UserName == "Sotzbik2425" then
         KickAfterDoneTrade=true,
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "Overbolt3162" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
-    getgenv().SelectedPlayer = "Silentfixxit5682" -- Main Account/ Account To Send Gem
+elseif UserName == "Shadowspanner3973" then
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
+    getgenv().SelectedPlayer = "Risrf5188" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
@@ -614,9 +344,9 @@ elseif UserName == "Overbolt3162" then
         KickAfterDoneTrade=true,
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "Togglekettle6226" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
-    getgenv().SelectedPlayer = "Silentfixxit5682" -- Main Account/ Account To Send Gem
+elseif UserName == "Plikdo9810" then
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
+    getgenv().SelectedPlayer = "Risrf5188" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
@@ -632,9 +362,63 @@ elseif UserName == "Togglekettle6226" then
         KickAfterDoneTrade=true,
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "Gearrun2541" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
-    getgenv().SelectedPlayer = "Brassswitch2644" -- Main Account/ Account To Send Gem
+elseif UserName == "Bramm2384" then
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
+    getgenv().SelectedPlayer = "Zenrt2645" -- Main Account/ Account To Send Gem
+    getgenv().MainAccount = true --Set True if it's the account to receive game, false if the account send gem
+    getgenv().AccountForMainToFolow = ""
+    getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
+    getgenv().MainAccountSetting = { -- Unit To Sell
+        Units = {"Electric Cyborg","Magic Arrow"},
+        ManuallyClaimBooth = false,
+    }
+    getgenv().AltAccountSetting = {
+        Trade = true,
+        NotSendGem = false,
+        TradeItems = {"Trait Crystal","Risky Dice"},
+        GiveBackUnit=true,
+        KickAfterDoneTrade=true,
+    }
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
+elseif UserName == "Torquemaker5354" then
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
+    getgenv().SelectedPlayer = "Zenrt2645" -- Main Account/ Account To Send Gem
+    getgenv().MainAccount = true --Set True if it's the account to receive game, false if the account send gem
+    getgenv().AccountForMainToFolow = ""
+    getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
+    getgenv().MainAccountSetting = { -- Unit To Sell
+        Units = {"Electric Cyborg","Magic Arrow"},
+        ManuallyClaimBooth = false,
+    }
+    getgenv().AltAccountSetting = {
+        Trade = true,
+        NotSendGem = false,
+        TradeItems = {"Trait Crystal","Risky Dice"},
+        GiveBackUnit=true,
+        KickAfterDoneTrade=true,
+    }
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
+elseif UserName == "Ablr5119" then
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
+    getgenv().SelectedPlayer = "Zenrt2645" -- Main Account/ Account To Send Gem
+    getgenv().MainAccount = true --Set True if it's the account to receive game, false if the account send gem
+    getgenv().AccountForMainToFolow = ""
+    getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
+    getgenv().MainAccountSetting = { -- Unit To Sell
+        Units = {"Electric Cyborg","Magic Arrow"},
+        ManuallyClaimBooth = false,
+    }
+    getgenv().AltAccountSetting = {
+        Trade = true,
+        NotSendGem = false,
+        TradeItems = {"Trait Crystal","Risky Dice"},
+        GiveBackUnit=true,
+        KickAfterDoneTrade=true,
+    }
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
+elseif UserName == "Crazyneedle0236" then
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
+    getgenv().SelectedPlayer = "Zenrt2645" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
@@ -650,9 +434,9 @@ elseif UserName == "Gearrun2541" then
         KickAfterDoneTrade=true,
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "Crutks2828" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
-    getgenv().SelectedPlayer = "Brassswitch2644" -- Main Account/ Account To Send Gem
+elseif UserName == "Witks1072" then
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
+    getgenv().SelectedPlayer = "Boltkettle2483" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
@@ -668,9 +452,9 @@ elseif UserName == "Crutks2828" then
         KickAfterDoneTrade=true,
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "Spindlebolt9540" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
-    getgenv().SelectedPlayer = "Brassswitch2644" -- Main Account/ Account To Send Gem
+elseif UserName == "Silentfixxit8322" then
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
+    getgenv().SelectedPlayer = "Boltkettle2483" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
@@ -686,9 +470,9 @@ elseif UserName == "Spindlebolt9540" then
         KickAfterDoneTrade=true,
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "Wiknk0235" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
-    getgenv().SelectedPlayer = "Brassswitch2644" -- Main Account/ Account To Send Gem
+elseif UserName == "Zere8217" then
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
+    getgenv().SelectedPlayer = "Boltkettle2483" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
@@ -704,9 +488,225 @@ elseif UserName == "Wiknk0235" then
         KickAfterDoneTrade=true,
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "Wiknk0235" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
-    getgenv().SelectedPlayer = "Brassswitch2644" -- Main Account/ Account To Send Gem
+elseif UserName == "Klabemm2514" then
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
+    getgenv().SelectedPlayer = "Boltkettle2483" -- Main Account/ Account To Send Gem
+    getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
+    getgenv().AccountForMainToFolow = ""
+    getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
+    getgenv().MainAccountSetting = { -- Unit To Sell
+        Units = {"Electric Cyborg","Magic Arrow"},
+        ManuallyClaimBooth = false,
+    }
+    getgenv().AltAccountSetting = {
+        Trade = true,
+        NotSendGem = false,
+        TradeItems = {"Trait Crystal","Risky Dice"},
+        GiveBackUnit=true,
+        KickAfterDoneTrade=true,
+    }
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
+elseif UserName == "Mervix0261" then
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
+    getgenv().SelectedPlayer = "Shimmercog9597" -- Main Account/ Account To Send Gem
+    getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
+    getgenv().AccountForMainToFolow = ""
+    getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
+    getgenv().MainAccountSetting = { -- Unit To Sell
+        Units = {"Electric Cyborg","Magic Arrow"},
+        ManuallyClaimBooth = false,
+    }
+    getgenv().AltAccountSetting = {
+        Trade = true,
+        NotSendGem = false,
+        TradeItems = {"Trait Crystal","Risky Dice"},
+        GiveBackUnit=true,
+        KickAfterDoneTrade=true,
+    }
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
+elseif UserName == "Plingchoo4036" then
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
+    getgenv().SelectedPlayer = "Shimmercog9597" -- Main Account/ Account To Send Gem
+    getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
+    getgenv().AccountForMainToFolow = ""
+    getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
+    getgenv().MainAccountSetting = { -- Unit To Sell
+        Units = {"Electric Cyborg","Magic Arrow"},
+        ManuallyClaimBooth = false,
+    }
+    getgenv().AltAccountSetting = {
+        Trade = true,
+        NotSendGem = false,
+        TradeItems = {"Trait Crystal","Risky Dice"},
+        GiveBackUnit=true,
+        KickAfterDoneTrade=true,
+    }
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
+elseif UserName == "Aedo6435" then
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
+    getgenv().SelectedPlayer = "Shimmercog9597" -- Main Account/ Account To Send Gem
+    getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
+    getgenv().AccountForMainToFolow = ""
+    getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
+    getgenv().MainAccountSetting = { -- Unit To Sell
+        Units = {"Electric Cyborg","Magic Arrow"},
+        ManuallyClaimBooth = false,
+    }
+    getgenv().AltAccountSetting = {
+        Trade = true,
+        NotSendGem = false,
+        TradeItems = {"Trait Crystal","Risky Dice"},
+        GiveBackUnit=true,
+        KickAfterDoneTrade=true,
+    }
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
+elseif UserName == "Crankcrank0560" then
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
+    getgenv().SelectedPlayer = "Shimmercog9597" -- Main Account/ Account To Send Gem
+    getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
+    getgenv().AccountForMainToFolow = ""
+    getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
+    getgenv().MainAccountSetting = { -- Unit To Sell
+        Units = {"Electric Cyborg","Magic Arrow"},
+        ManuallyClaimBooth = false,
+    }
+    getgenv().AltAccountSetting = {
+        Trade = true,
+        NotSendGem = false,
+        TradeItems = {"Trait Crystal","Risky Dice"},
+        GiveBackUnit=true,
+        KickAfterDoneTrade=true,
+    }
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
+elseif UserName == "Fliklag4890" then
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
+    getgenv().SelectedPlayer = "Hekm1112" -- Main Account/ Account To Send Gem
+    getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
+    getgenv().AccountForMainToFolow = ""
+    getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
+    getgenv().MainAccountSetting = { -- Unit To Sell
+        Units = {"Electric Cyborg","Magic Arrow"},
+        ManuallyClaimBooth = false,
+    }
+    getgenv().AltAccountSetting = {
+        Trade = true,
+        NotSendGem = false,
+        TradeItems = {"Trait Crystal","Risky Dice"},
+        GiveBackUnit=true,
+        KickAfterDoneTrade=true,
+    }
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
+elseif UserName == "Xanfe3942" then
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
+    getgenv().SelectedPlayer = "Hekm1112" -- Main Account/ Account To Send Gem
+    getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
+    getgenv().AccountForMainToFolow = ""
+    getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
+    getgenv().MainAccountSetting = { -- Unit To Sell
+        Units = {"Electric Cyborg","Magic Arrow"},
+        ManuallyClaimBooth = false,
+    }
+    getgenv().AltAccountSetting = {
+        Trade = true,
+        NotSendGem = false,
+        TradeItems = {"Trait Crystal","Risky Dice"},
+        GiveBackUnit=true,
+        KickAfterDoneTrade=true,
+    }
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
+elseif UserName == "Gorsh2681" then
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
+    getgenv().SelectedPlayer = "Hekm1112" -- Main Account/ Account To Send Gem
+    getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
+    getgenv().AccountForMainToFolow = ""
+    getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
+    getgenv().MainAccountSetting = { -- Unit To Sell
+        Units = {"Electric Cyborg","Magic Arrow"},
+        ManuallyClaimBooth = false,
+    }
+    getgenv().AltAccountSetting = {
+        Trade = true,
+        NotSendGem = false,
+        TradeItems = {"Trait Crystal","Risky Dice"},
+        GiveBackUnit=true,
+        KickAfterDoneTrade=true,
+    }
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
+elseif UserName == "Fliklag5589" then
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
+    getgenv().SelectedPlayer = "Hekm1112" -- Main Account/ Account To Send Gem
+    getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
+    getgenv().AccountForMainToFolow = ""
+    getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
+    getgenv().MainAccountSetting = { -- Unit To Sell
+        Units = {"Electric Cyborg","Magic Arrow"},
+        ManuallyClaimBooth = false,
+    }
+    getgenv().AltAccountSetting = {
+        Trade = true,
+        NotSendGem = false,
+        TradeItems = {"Trait Crystal","Risky Dice"},
+        GiveBackUnit=true,
+        KickAfterDoneTrade=true,
+    }
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
+elseif UserName == "Crazyneedle6663" then
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
+    getgenv().SelectedPlayer = "Fizzberry0514" -- Main Account/ Account To Send Gem
+    getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
+    getgenv().AccountForMainToFolow = ""
+    getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
+    getgenv().MainAccountSetting = { -- Unit To Sell
+        Units = {"Electric Cyborg","Magic Arrow"},
+        ManuallyClaimBooth = false,
+    }
+    getgenv().AltAccountSetting = {
+        Trade = true,
+        NotSendGem = false,
+        TradeItems = {"Trait Crystal","Risky Dice"},
+        GiveBackUnit=true,
+        KickAfterDoneTrade=true,
+    }
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
+elseif UserName == "Edxt4852" then
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
+    getgenv().SelectedPlayer = "Fizzberry0514" -- Main Account/ Account To Send Gem
+    getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
+    getgenv().AccountForMainToFolow = ""
+    getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
+    getgenv().MainAccountSetting = { -- Unit To Sell
+        Units = {"Electric Cyborg","Magic Arrow"},
+        ManuallyClaimBooth = false,
+    }
+    getgenv().AltAccountSetting = {
+        Trade = true,
+        NotSendGem = false,
+        TradeItems = {"Trait Crystal","Risky Dice"},
+        GiveBackUnit=true,
+        KickAfterDoneTrade=true,
+    }
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
+elseif UserName == "Brikko6423" then
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
+    getgenv().SelectedPlayer = "Fizzberry0514" -- Main Account/ Account To Send Gem
+    getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
+    getgenv().AccountForMainToFolow = ""
+    getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
+    getgenv().MainAccountSetting = { -- Unit To Sell
+        Units = {"Electric Cyborg","Magic Arrow"},
+        ManuallyClaimBooth = false,
+    }
+    getgenv().AltAccountSetting = {
+        Trade = true,
+        NotSendGem = false,
+        TradeItems = {"Trait Crystal","Risky Dice"},
+        GiveBackUnit=true,
+        KickAfterDoneTrade=true,
+    }
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
+elseif UserName == "Rustcog6152" then
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
+    getgenv().SelectedPlayer = "Fizzberry0514" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
