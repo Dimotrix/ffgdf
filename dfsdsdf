@@ -365,7 +365,7 @@ loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f
 elseif UserName == "Bramm2384" then
   script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
     getgenv().SelectedPlayer = "Zenrt2645" -- Main Account/ Account To Send Gem
-    getgenv().MainAccount = true --Set True if it's the account to receive game, false if the account send gem
+    getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
     getgenv().MainAccountSetting = { -- Unit To Sell
@@ -383,7 +383,7 @@ loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f
 elseif UserName == "Torquemaker5354" then
   script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
     getgenv().SelectedPlayer = "Zenrt2645" -- Main Account/ Account To Send Gem
-    getgenv().MainAccount = true --Set True if it's the account to receive game, false if the account send gem
+    getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
     getgenv().MainAccountSetting = { -- Unit To Sell
@@ -401,7 +401,7 @@ loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f
 elseif UserName == "Ablr5119" then
   script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
     getgenv().SelectedPlayer = "Zenrt2645" -- Main Account/ Account To Send Gem
-    getgenv().MainAccount = true --Set True if it's the account to receive game, false if the account send gem
+    getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
     getgenv().MainAccountSetting = { -- Unit To Sell
